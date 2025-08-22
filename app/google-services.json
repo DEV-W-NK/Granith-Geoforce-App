@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102779249462",
+    "project_id": "granith-skyforge",
+    "storage_bucket": "granith-skyforge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102779249462:android:33467963b12841c6858997",
+        "android_client_info": {
+          "package_name": "com.example.granith"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYVJFQjfj8AkZVQeFVfuP5pT12Mfljplk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
